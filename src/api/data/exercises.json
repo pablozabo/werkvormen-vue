@@ -1,0 +1,499 @@
+[
+	{
+		"Ticket": "123456",
+		"WerkvormType": "Fnl.Werkvormen.VisueelDictee",
+		"Settings": {
+			"KlankenBordButtons": "KorteKlanken, LangeKlankenNormaal, TweeTekenKlanken, StommeKlinkersE, StommeKlinkersIgLijk, DrieTekenKlanken, RestKlanken, MedeklinkersMakkelijk, MedeklinkersMoeilijk, LangeKlankenLkr",
+			"PlaySoundOnKlankenBordHover": "false",
+			"WoordenSpeed": "3",
+			"VisibleRegelsFilter": "KleefLetterR, KleefLetterL, VerkleuringEerOorEur, VerkleuringEelOolEul, VerkleuringIjlEilUil, VerkleuringEl, Lkr1, Lkr2, Kkr, Chg, Sz, Fv",
+			"ShowLeenKlankButton": "false",
+			"BlokSize": "40",
+			"SoundMuted": "false",
+			"ShowDrieTekenStreepjes": "True",
+			"ShowRestKlankStippen": "True",
+			"BlokFontSize": "48",
+			"UseSpokenWords": "True",
+			"ShowFamilieRegelButton": "False",
+			"ShowPlakwoordButton": "False",
+			"ShowLettergreepButton": "False",
+			"BlokFontName": "Verdana",
+			"ShowPlakwoord": "False",
+			"WoordDeelSplit": "None",
+			"WoordenSpeedMaximum": "8",
+			"BlokBorderColor": "#FF000000",
+			"LetterScaling": "1.2",
+			"ShowBlokFill": "All",
+			"ShowBlokBorder": "All",
+			"ShowBlokText": "All",
+			"ShowDisplaySettingsNederlandseStukjesButton": "False",
+			"ShowDisplaySettingsLeenStukjesButton": "False"
+		},
+		"Words": [
+			{
+				"Text": "meesters",
+				"Vowels": [
+					{
+						"Color": "Blue",
+						"IsConsonant": true,
+						"Blocks": [{ "Char": "m", "IsLastInSyllable": false, "IsLastInStickyWord": false }],
+						"VowelRule": "None",
+						"SpokenVowel": "m",
+						"OriginalColor": null
+					},
+					{
+						"Color": "Yellow",
+						"IsConsonant": false,
+						"Blocks": [
+							{ "Char": "e", "IsLastInSyllable": false, "IsLastInStickyWord": false },
+							{ "Char": "e", "IsLastInSyllable": false, "IsLastInStickyWord": false }
+						],
+						"VowelRule": "None",
+						"SpokenVowel": "ee",
+						"OriginalColor": null
+					},
+					{
+						"Color": "Blue",
+						"IsConsonant": true,
+						"Blocks": [{ "Char": "s", "IsLastInSyllable": true, "IsLastInStickyWord": false }],
+						"VowelRule": "None",
+						"SpokenVowel": "s",
+						"OriginalColor": null
+					},
+					{
+						"Color": "Blue",
+						"IsConsonant": true,
+						"Blocks": [{ "Char": "t", "IsLastInSyllable": false, "IsLastInStickyWord": false }],
+						"VowelRule": "None",
+						"SpokenVowel": "t",
+						"OriginalColor": null
+					},
+					{
+						"Color": "Orange",
+						"IsConsonant": false,
+						"Blocks": [{ "Char": "e", "IsLastInSyllable": false, "IsLastInStickyWord": false }],
+						"VowelRule": "None",
+						"SpokenVowel": "eStom",
+						"OriginalColor": null
+					},
+					{
+						"Color": "Blue",
+						"IsConsonant": true,
+						"Blocks": [{ "Char": "r", "IsLastInSyllable": false, "IsLastInStickyWord": false }],
+						"VowelRule": "None",
+						"SpokenVowel": "r",
+						"OriginalColor": null
+					},
+					{
+						"Color": "Blue",
+						"IsConsonant": true,
+						"Blocks": [{ "Char": "s", "IsLastInSyllable": false, "IsLastInStickyWord": false }],
+						"VowelRule": "None",
+						"SpokenVowel": "s",
+						"OriginalColor": null
+					}
+				],
+				"TimeForWord": 0,
+				"WordPieces": []
+			},
+			{
+				"Text": "gluten",
+				"Vowels": [
+					{
+						"Color": "Blue",
+						"IsConsonant": true,
+						"Blocks": [{ "Char": "g", "IsLastInSyllable": false, "IsLastInStickyWord": false }],
+						"VowelRule": "None",
+						"SpokenVowel": "g",
+						"OriginalColor": null
+					},
+					{
+						"Color": "Blue",
+						"IsConsonant": true,
+						"Blocks": [{ "Char": "l", "IsLastInSyllable": false, "IsLastInStickyWord": false }],
+						"VowelRule": "None",
+						"SpokenVowel": "l",
+						"OriginalColor": null
+					},
+					{
+						"Color": "Yellow",
+						"IsConsonant": false,
+						"Blocks": [{ "Char": "u", "IsLastInSyllable": true, "IsLastInStickyWord": false }],
+						"VowelRule": "Lkr1",
+						"SpokenVowel": "uu",
+						"OriginalColor": null
+					},
+					{
+						"Color": "Blue",
+						"IsConsonant": true,
+						"Blocks": [{ "Char": "t", "IsLastInSyllable": false, "IsLastInStickyWord": false }],
+						"VowelRule": "None",
+						"SpokenVowel": "t",
+						"OriginalColor": null
+					},
+					{
+						"Color": "Orange",
+						"IsConsonant": false,
+						"Blocks": [{ "Char": "e", "IsLastInSyllable": false, "IsLastInStickyWord": false }],
+						"VowelRule": "None",
+						"SpokenVowel": "eStom",
+						"OriginalColor": null
+					},
+					{
+						"Color": "Blue",
+						"IsConsonant": true,
+						"Blocks": [{ "Char": "n", "IsLastInSyllable": false, "IsLastInStickyWord": false }],
+						"VowelRule": "None",
+						"SpokenVowel": "n",
+						"OriginalColor": null
+					}
+				],
+				"TimeForWord": 0,
+				"WordPieces": []
+			},
+			{
+				"Text": "bakje",
+				"Vowels": [
+					{
+						"Color": "Blue",
+						"IsConsonant": true,
+						"Blocks": [{ "Char": "b", "IsLastInSyllable": false, "IsLastInStickyWord": false }],
+						"VowelRule": "None",
+						"SpokenVowel": "b",
+						"OriginalColor": null
+					},
+					{
+						"Color": "Green",
+						"IsConsonant": false,
+						"Blocks": [{ "Char": "a", "IsLastInSyllable": false, "IsLastInStickyWord": false }],
+						"VowelRule": "None",
+						"SpokenVowel": "a",
+						"OriginalColor": null
+					},
+					{
+						"Color": "Blue",
+						"IsConsonant": true,
+						"Blocks": [{ "Char": "k", "IsLastInSyllable": true, "IsLastInStickyWord": false }],
+						"VowelRule": "None",
+						"SpokenVowel": "k",
+						"OriginalColor": null
+					},
+					{
+						"Color": "Blue",
+						"IsConsonant": true,
+						"Blocks": [{ "Char": "j", "IsLastInSyllable": false, "IsLastInStickyWord": false }],
+						"VowelRule": "None",
+						"SpokenVowel": "j",
+						"OriginalColor": null
+					},
+					{
+						"Color": "Orange",
+						"IsConsonant": false,
+						"Blocks": [{ "Char": "e", "IsLastInSyllable": false, "IsLastInStickyWord": false }],
+						"VowelRule": "None",
+						"SpokenVowel": "eStom",
+						"OriginalColor": null
+					}
+				],
+				"TimeForWord": 0,
+				"WordPieces": []
+			},
+			{
+				"Text": "hobo",
+				"Vowels": [
+					{
+						"Color": "Blue",
+						"IsConsonant": true,
+						"Blocks": [{ "Char": "h", "IsLastInSyllable": false, "IsLastInStickyWord": false }],
+						"VowelRule": "None",
+						"SpokenVowel": "h",
+						"OriginalColor": null
+					},
+					{
+						"Color": "Yellow",
+						"IsConsonant": false,
+						"Blocks": [{ "Char": "o", "IsLastInSyllable": true, "IsLastInStickyWord": false }],
+						"VowelRule": "Lkr1",
+						"SpokenVowel": "oo",
+						"OriginalColor": null
+					},
+					{
+						"Color": "Blue",
+						"IsConsonant": true,
+						"Blocks": [{ "Char": "b", "IsLastInSyllable": false, "IsLastInStickyWord": false }],
+						"VowelRule": "None",
+						"SpokenVowel": "b",
+						"OriginalColor": null
+					},
+					{
+						"Color": "Yellow",
+						"IsConsonant": false,
+						"Blocks": [{ "Char": "o", "IsLastInSyllable": false, "IsLastInStickyWord": false }],
+						"VowelRule": "Lkr2",
+						"SpokenVowel": "oo",
+						"OriginalColor": null
+					}
+				],
+				"TimeForWord": 0,
+				"WordPieces": []
+			},
+			{
+				"Text": "tuinwerk",
+				"Vowels": [
+					{
+						"Color": "Blue",
+						"IsConsonant": true,
+						"Blocks": [{ "Char": "t", "IsLastInSyllable": false, "IsLastInStickyWord": false }],
+						"VowelRule": "None",
+						"SpokenVowel": "t",
+						"OriginalColor": null
+					},
+					{
+						"Color": "Red",
+						"IsConsonant": false,
+						"Blocks": [
+							{ "Char": "u", "IsLastInSyllable": false, "IsLastInStickyWord": false },
+							{ "Char": "i", "IsLastInSyllable": false, "IsLastInStickyWord": false }
+						],
+						"VowelRule": "None",
+						"SpokenVowel": "ui",
+						"OriginalColor": null
+					},
+					{
+						"Color": "Blue",
+						"IsConsonant": true,
+						"Blocks": [{ "Char": "n", "IsLastInSyllable": true, "IsLastInStickyWord": true }],
+						"VowelRule": "None",
+						"SpokenVowel": "n",
+						"OriginalColor": null
+					},
+					{
+						"Color": "Blue",
+						"IsConsonant": true,
+						"Blocks": [{ "Char": "w", "IsLastInSyllable": false, "IsLastInStickyWord": false }],
+						"VowelRule": "None",
+						"SpokenVowel": "w",
+						"OriginalColor": null
+					},
+					{
+						"Color": "Green",
+						"IsConsonant": false,
+						"Blocks": [{ "Char": "e", "IsLastInSyllable": false, "IsLastInStickyWord": false }],
+						"VowelRule": "None",
+						"SpokenVowel": "e",
+						"OriginalColor": null
+					},
+					{
+						"Color": "Blue",
+						"IsConsonant": true,
+						"Blocks": [{ "Char": "r", "IsLastInSyllable": false, "IsLastInStickyWord": false }],
+						"VowelRule": "KleefLetterR",
+						"SpokenVowel": "r",
+						"OriginalColor": null
+					},
+					{
+						"Color": "Blue",
+						"IsConsonant": true,
+						"Blocks": [{ "Char": "k", "IsLastInSyllable": false, "IsLastInStickyWord": false }],
+						"VowelRule": "None",
+						"SpokenVowel": "k",
+						"OriginalColor": null
+					}
+				],
+				"TimeForWord": 0,
+				"WordPieces": []
+			},
+			{
+				"Text": "zoethout",
+				"Vowels": [
+					{
+						"Color": "Blue",
+						"IsConsonant": true,
+						"Blocks": [{ "Char": "z", "IsLastInSyllable": false, "IsLastInStickyWord": false }],
+						"VowelRule": "None",
+						"SpokenVowel": "z",
+						"OriginalColor": null
+					},
+					{
+						"Color": "Red",
+						"IsConsonant": false,
+						"Blocks": [
+							{ "Char": "o", "IsLastInSyllable": false, "IsLastInStickyWord": false },
+							{ "Char": "e", "IsLastInSyllable": false, "IsLastInStickyWord": false }
+						],
+						"VowelRule": "None",
+						"SpokenVowel": "oe",
+						"OriginalColor": null
+					},
+					{
+						"Color": "Blue",
+						"IsConsonant": true,
+						"Blocks": [{ "Char": "t", "IsLastInSyllable": true, "IsLastInStickyWord": true }],
+						"VowelRule": "None",
+						"SpokenVowel": "t",
+						"OriginalColor": null
+					},
+					{
+						"Color": "Blue",
+						"IsConsonant": true,
+						"Blocks": [{ "Char": "h", "IsLastInSyllable": false, "IsLastInStickyWord": false }],
+						"VowelRule": "None",
+						"SpokenVowel": "h",
+						"OriginalColor": null
+					},
+					{
+						"Color": "Red",
+						"IsConsonant": false,
+						"Blocks": [
+							{ "Char": "o", "IsLastInSyllable": false, "IsLastInStickyWord": false },
+							{ "Char": "u", "IsLastInSyllable": false, "IsLastInStickyWord": false }
+						],
+						"VowelRule": "None",
+						"SpokenVowel": "ou",
+						"OriginalColor": null
+					},
+					{
+						"Color": "Blue",
+						"IsConsonant": true,
+						"Blocks": [{ "Char": "t", "IsLastInSyllable": false, "IsLastInStickyWord": false }],
+						"VowelRule": "None",
+						"SpokenVowel": "t",
+						"OriginalColor": null
+					}
+				],
+				"TimeForWord": 0,
+				"WordPieces": []
+			},
+			{
+				"Text": "badhuis",
+				"Vowels": [
+					{
+						"Color": "Blue",
+						"IsConsonant": true,
+						"Blocks": [{ "Char": "b", "IsLastInSyllable": false, "IsLastInStickyWord": false }],
+						"VowelRule": "None",
+						"SpokenVowel": "b",
+						"OriginalColor": null
+					},
+					{
+						"Color": "Green",
+						"IsConsonant": false,
+						"Blocks": [{ "Char": "a", "IsLastInSyllable": false, "IsLastInStickyWord": false }],
+						"VowelRule": "None",
+						"SpokenVowel": "a",
+						"OriginalColor": null
+					},
+					{
+						"Color": "Blue",
+						"IsConsonant": true,
+						"Blocks": [{ "Char": "d", "IsLastInSyllable": true, "IsLastInStickyWord": true }],
+						"VowelRule": "None",
+						"SpokenVowel": "t",
+						"OriginalColor": null
+					},
+					{
+						"Color": "Blue",
+						"IsConsonant": true,
+						"Blocks": [{ "Char": "h", "IsLastInSyllable": false, "IsLastInStickyWord": false }],
+						"VowelRule": "None",
+						"SpokenVowel": "h",
+						"OriginalColor": null
+					},
+					{
+						"Color": "Red",
+						"IsConsonant": false,
+						"Blocks": [
+							{ "Char": "u", "IsLastInSyllable": false, "IsLastInStickyWord": false },
+							{ "Char": "i", "IsLastInSyllable": false, "IsLastInStickyWord": false }
+						],
+						"VowelRule": "None",
+						"SpokenVowel": "ui",
+						"OriginalColor": null
+					},
+					{
+						"Color": "Blue",
+						"IsConsonant": true,
+						"Blocks": [{ "Char": "s", "IsLastInSyllable": false, "IsLastInStickyWord": false }],
+						"VowelRule": "None",
+						"SpokenVowel": "s",
+						"OriginalColor": null
+					}
+				],
+				"TimeForWord": 0,
+				"WordPieces": []
+			},
+			{
+				"Text": "stikheet",
+				"Vowels": [
+					{
+						"Color": "Blue",
+						"IsConsonant": true,
+						"Blocks": [{ "Char": "s", "IsLastInSyllable": false, "IsLastInStickyWord": false }],
+						"VowelRule": "None",
+						"SpokenVowel": "s",
+						"OriginalColor": null
+					},
+					{
+						"Color": "Blue",
+						"IsConsonant": true,
+						"Blocks": [{ "Char": "t", "IsLastInSyllable": false, "IsLastInStickyWord": false }],
+						"VowelRule": "None",
+						"SpokenVowel": "t",
+						"OriginalColor": null
+					},
+					{
+						"Color": "Green",
+						"IsConsonant": false,
+						"Blocks": [{ "Char": "i", "IsLastInSyllable": false, "IsLastInStickyWord": false }],
+						"VowelRule": "None",
+						"SpokenVowel": "i",
+						"OriginalColor": null
+					},
+					{
+						"Color": "Blue",
+						"IsConsonant": true,
+						"Blocks": [{ "Char": "k", "IsLastInSyllable": true, "IsLastInStickyWord": true }],
+						"VowelRule": "None",
+						"SpokenVowel": "k",
+						"OriginalColor": null
+					},
+					{
+						"Color": "Blue",
+						"IsConsonant": true,
+						"Blocks": [{ "Char": "h", "IsLastInSyllable": false, "IsLastInStickyWord": false }],
+						"VowelRule": "None",
+						"SpokenVowel": "h",
+						"OriginalColor": null
+					},
+					{
+						"Color": "Yellow",
+						"IsConsonant": false,
+						"Blocks": [
+							{ "Char": "e", "IsLastInSyllable": false, "IsLastInStickyWord": false },
+							{ "Char": "e", "IsLastInSyllable": false, "IsLastInStickyWord": false }
+						],
+						"VowelRule": "None",
+						"SpokenVowel": "ee",
+						"OriginalColor": null
+					},
+					{
+						"Color": "Blue",
+						"IsConsonant": true,
+						"Blocks": [{ "Char": "t", "IsLastInSyllable": false, "IsLastInStickyWord": false }],
+						"VowelRule": "None",
+						"SpokenVowel": "t",
+						"OriginalColor": null
+					}
+				],
+				"TimeForWord": 0,
+				"WordPieces": []
+			}
+		],
+		"Wordtype": "words",
+		"SeeProgres": false,
+		"WerkvormId": 1694,
+		"WoordveldTimeList": [],
+		"SeeCustomSpeedTimer": false,
+		"Zinnen": []
+	}
+]

@@ -1,0 +1,7 @@
+export { default as Block } from './word/Block.vue'
+export { default as Vowel } from './word/Vowel.vue'
+export { default as Word } from './word/Word.vue'
+export { default as BlockSizeSlider } from './BlockSizeSlider.vue'
+export { default as InfoPanel } from './InfoPanel.vue'
+export { default as StartPanel } from './StartPanel.vue'
+export { default as Exercise } from './Exercise.vue'
